@@ -1,7 +1,7 @@
 == Project Proposal Template
 
 
-* Name of project -- or proposed name (must be unique within LF AI) *:
+* Name of project -- or proposed name (must be unique within LF AI) :\
   ShaderNN – A mobile inference framework for convolutional neural network
 
 * Requested project maturity level*: 
